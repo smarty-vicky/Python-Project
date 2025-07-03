@@ -28,8 +28,8 @@ A beginner-friendly command-line toolkit with essential cybersecurity tools buil
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/cybersecurity-toolkit.git
-cd cybersecurity-toolkit
+git clone https://github.com/smarty-vicky/cybersecurity_toolkit.git
+cd cybersecurity_toolkit
 Install required package:
 
 pip install requests
@@ -78,6 +78,6 @@ This project is open-source and available under the MIT License.
 ✨ Author
 Vignesh S
 BCA Graduate | Python & Cybersecurity Enthusiast
-🔗 GitHub
+🔗 GitHub https://github.com/smarty-vicky
 
 
