@@ -48,8 +48,8 @@ cybersecurity_toolkit.py
 📂 File Structure
 
 cybersecurity-toolkit/
-├── toolkit.py         # Main script
-└── README.md          # Project documentation
+├── cybersecurity_toolkit.py         # Main script
+└── toolkitReadme.md          # Project documentation
 📚 Concepts Covered
 Socket Programming
 
