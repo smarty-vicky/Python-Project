@@ -26,8 +26,8 @@ A simple but powerful Python tool to compare your resume with a job description 
 
 ```bash
 # Clone this repository
-git clone https://github.com/smarty-vicky/resume-matcher.git
-cd resume-matcher
+git clone https://github.com/smarty-vicky/resume_matcher.git
+cd resume_matcher
 
 # (Optional) Create a virtual environment
 python -m venv venv
